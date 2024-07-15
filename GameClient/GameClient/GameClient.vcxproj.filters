@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>qml;cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>qrc;rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Card">
+      <UniqueIdentifier>{a07e0347-6e2e-452f-89d7-c012c2eb5d73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Card">
+      <UniqueIdentifier>{a56a6c84-1213-4074-9a0e-0e567cf1cdb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Card\Vector">
+      <UniqueIdentifier>{be192e92-3cb9-4c34-a74a-2cf7e86b270c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Card\Vector">
+      <UniqueIdentifier>{40838d7e-deb5-424e-b462-7d35058e68b1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="GameWidget.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <QtUic Include="GameWidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtMoc Include="GameWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClCompile Include="GameWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>Source Files\Card</Filter>
+    </ClCompile>
+    <ClCompile Include="CardVector.cpp">
+      <Filter>Source Files\Card\Vector</Filter>
+    </ClCompile>
+    <ClCompile Include="HandCard.cpp">
+      <Filter>Source Files\Card\Vector</Filter>
+    </ClCompile>
+    <ClCompile Include="OtherCard.cpp">
+      <Filter>Source Files\Card\Vector</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="Card.h">
+      <Filter>Header Files\Card</Filter>
+    </QtMoc>
+    <QtMoc Include="CardVector.h">
+      <Filter>Header Files\Card\Vector</Filter>
+    </QtMoc>
+    <QtMoc Include="HandCard.h">
+      <Filter>Header Files\Card\Vector</Filter>
+    </QtMoc>
+    <QtMoc Include="OtherCard.h">
+      <Filter>Header Files\Card\Vector</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CardType.h">
+      <Filter>Header Files\Card</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

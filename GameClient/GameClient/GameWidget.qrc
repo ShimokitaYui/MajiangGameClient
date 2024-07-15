@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="GameWidget"/>
+  <qresource prefix="Majiang">
+    <file>T1.png</file>
+    <file>T2.png</file>
+    <file>T3.png</file>
+    <file>T4.png</file>
+    <file>T5.png</file>
+    <file>T6.png</file>
+    <file>T7.png</file>
+    <file>T8.png</file>
+    <file>T9.png</file>
+    <file>W1.png</file>
+    <file>W2.png</file>
+    <file>W3.png</file>
+    <file>W4.png</file>
+    <file>W5.png</file>
+    <file>W6.png</file>
+    <file>W7.png</file>
+    <file>W8.png</file>
+    <file>W9.png</file>
+    <file>Y1.png</file>
+    <file>Y2.png</file>
+    <file>Y3.png</file>
+    <file>Y4.png</file>
+    <file>Y5.png</file>
+    <file>Y6.png</file>
+    <file>Y7.png</file>
+    <file>Y8.png</file>
+    <file>Y9.png</file>
+    <file>ZB.png</file>
+    <file>ZE.png</file>
+    <file>ZF.png</file>
+    <file>ZN.png</file>
+    <file>ZS.png</file>
+    <file>ZW.png</file>
+    <file>ZZ.png</file>
+  </qresource>
+</RCC>

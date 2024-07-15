@@ -1,0 +1,31 @@
+﻿  Card.cpp
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x309 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x30b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x30d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x30e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x30f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x310 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x312 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x314 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x315 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x318 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x33d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x33e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x343 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x344 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x34c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x355 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x356 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x357 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x358 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x35a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x35b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x35c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x35d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x35e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x35f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x362 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x364 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x366 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+H:\Majiang\QtClientPro\GameClient\GameClient\Card.cpp(1,1): warning C4828: 文件包含在偏移 0x367 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  GameClient.vcxproj -> H:\Majiang\QtClientPro\GameClient\x64\Debug\GameClient.exe
